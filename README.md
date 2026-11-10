@@ -103,7 +103,8 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 12.	Why are A and C absent from the minimized expression?
 13.	What is the purpose of $dumpfile?
 14.	What is the purpose of $dumpvars?
+<img width="1917" height="1020" alt="Screenshot 2026-10-24 145906" src="https://github.com/user-attachments/assets/3aa6f769-9e95-4f80-950e-94fd23629a4a" />
 
-Result
+## Result
 Thus, the Boolean function was minimized, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
 
